@@ -1,7 +1,10 @@
-// Nama : Rahman Hanif Aji Saputra
-// Nim	: 24060122140128
-// Desc	: MainTitik.java
-// file	: MTitik.java
+/**
+ * File      	: Titik.java		21/02/23
+ * Nama penulis   : Rahman Hanif Aji Saputra
+ * NIM            : 24060122140128
+ * Deskripsi : Kelas yang berisi main dari Titik
+ * 
+ */
 
 class MTitik
 {
