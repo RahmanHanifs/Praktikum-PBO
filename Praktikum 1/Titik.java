@@ -1,7 +1,10 @@
-// Nama : Rahman Hanif Aji Saputra
-// Nim	: 24060122140128
-// Desc	: body Titik.java
-// file	: Titik.java
+/**
+ * File      	: MTitik.java		21/02/24
+ * Nama penulis      : Rahman Hanif Aji Saputra
+ * NIM               : 24060122140128
+ * Deskripsi 		: Kelas yang berisi Body dari Titik
+ * 
+ */
 class Titik
 {
 	double absis, ordinat;
